@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* scroll-behavior: smooth;
+    font-family: 'Manrope', sans-serif; */
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo{
+   
+    border-radius: 100%;
+    /* box-shadow: none;
+    cursor: pointer;
+    border: 1px solid var(--text-color); */
+}
