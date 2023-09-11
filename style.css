@@ -78,8 +78,8 @@ header nav button{
 .flex{
     display: flex;
     justify-content: space-between;
-    margin-left: 230px;
-    margin-right: 230px;
+    padding-left: 230px;
+    padding-right: 230px;
     padding-top: 50px;
    
 }
@@ -237,3 +237,52 @@ footer {
   }
   /* footer end */
   
+
+
+  /* baguud page */
+  .bagsec1{
+    background: #EE6730;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 120px;
+    padding-right: 120px;
+    /* padding-top: 50px; */
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .bagsec1 img{
+    width: 100px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+    border-radius: 5px;
+
+  }
+  .bagsec1 i{
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #787474;
+  }
+  .bagsec01 {
+    background: #D9D9D9;
+    color: #2B2C2D;
+    /* background: #787474; */
+    
+    /* justify-content: space-between; */
+    padding-left: 230px;
+    padding-right: 230px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .bagsec01 h2{
+    text-align: center;
+  }
+  .bagsec01 article{
+    font-size: 24px;
+  }
+  .bagsec01 {
+    display: flex;
+  }
+  .bagsec01 article {
+    /* display: flex; */
+  }
